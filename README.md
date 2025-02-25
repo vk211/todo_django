@@ -5,7 +5,8 @@ Todo list using Django python
     python3 -m venv path
 
 # Activate the scripts to use local Python Environment
-On Windows use
+On Windows use:
+
     path\Scripts\activate
 
 # Run the project 
