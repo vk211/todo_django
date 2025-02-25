@@ -2,7 +2,7 @@
 Todo list using Django python
 
 # INSTALL A LOCAL PY ENVIRONMENT
-python3 -m venv path
+    python3 -m venv path
 
 # Activate the scripts to use local Python Environment
 On Windows use
